@@ -1,0 +1,3 @@
+export const MockUSDC = '0xDCD5D0793bd594321c691991575F48A09DE00eab';
+export const MockERC20 = '0x822B2A2e3C526fFF1bA650e4E1Ad9d88A5ACfdd4';
+export const UniswapV2Clone = '0xD373af3f19C6B1a6aE6676c83f9cC19c50b97d78';
